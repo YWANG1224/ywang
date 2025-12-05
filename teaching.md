@@ -8,7 +8,6 @@ description: teaching
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#current">Current courses</a></li>
-            <li><a href="#shortcourses">Short courses</a></li>
             <li><a href="#old">Former courses</a></li>
         </ul>
     </div>
@@ -17,7 +16,8 @@ description: teaching
 
 ### <a name="current"></a>Current courses as Lecturer
 
-- Quantitative Text Analysis in Social Sciences (Syllabus: )
+- Quantitative Text Analysis in Social Sciences [Syllabus: ](assets/Course_syllabus_QTA_2025.pdf)<br/>
+
 
 - Understanding Social Media Data
   
