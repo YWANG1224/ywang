@@ -17,27 +17,23 @@ description: teaching
 
 ### <a name="current"></a>Current courses as Lecturer
 
+- Quantitative Text Analysis in Social Sciences (Syllabus: )
+
 - Understanding Social Media Data
   
 - Network Analysis
-  
-- Introduction to Quantitative Methods for the MPA Programme (PP408, 2021-2022, 2022-2023)
-
 
 ---
 
-### <a name="shortcourses"></a>Short courses as Lecturer
+### <a name="old"></a>Former courses
 
 - Machine Learning (MY560, ST 2020-2021)
 
 - Using Dictionaries for Text Analysis (MY560, ST 2020-2021)
 
 - Regression Discontinuity Designs (MY560, ST 2020-2021)
-
-
----
-
-### <a name="old"></a>Former courses as Teaching Assistant
+  
+- Introduction to Quantitative Methods for the MPA Programme (PP408, 2021-2022, 2022-2023)
 
 - Applied Regression Analysis (MY452, MT 2020-2021)
 
