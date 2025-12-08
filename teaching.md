@@ -16,8 +16,7 @@ description: teaching
 
 ### <a name="current"></a>Current courses as Lecturer
 
-- Quantitative Text Analysis in Social Sciences [Syllabus](assets/Course_syllabus_QTA_2025.pdf)<br/>
-
+- Quantitative Text Analysis in Social Sciences ([Syllabus](assets/Course_syllabus_QTA_2025.pdf)<br/>)
 
 - Understanding Social Media Data
   
