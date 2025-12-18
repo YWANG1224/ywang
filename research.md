@@ -85,10 +85,10 @@ description: research
     </details>
 
 - Avalos, C., Nick Shryane and Yan Wang. 2025. When Does Food Label Readability Matter? A Non-Equivalent Dependent Variable Design to Isolate the Content-Specific Effects on Food Choice. Preprints. <a href="https://doi.org/10.20944/preprints202511.2119.v1">Available here</a>
-      <details>
-        <summary>Abstract</summary>
+    <details>
+      <summary>Abstract</summary>
         Objective: This study investigates the association between consumers’ perceived readability of Multiple Traffic Light label print size and the frequency of food consumption within the United Kingdom. We aimed to disentangle the effect of label readability from label content. Using non-equivalent dependent variables, we test if the association is specific to unhealthy convenience foods and absent for healthy or unlabeled foods. We also test for heterogeneity across consumer subgroups. Methods: Data from 8,948 adults across four waves (2012-2018) of the UK Food and You Survey were analyzed. Cumulative link ordinal logistic regressions were employed to model the association between self-reported print size readability and the consumption frequency of four product types: pre-package sandwiches and precooked meat (unhealthy, labeled), dairy (healthy, labeled), and fresh meat (unlabeled control). Results: The findings reveal a content-specific and significant dynamic relationship exclusively for pre-package sandwiches. This relationship reversed from a 9% decrease in the odds of frequent consumption in 2012 to a 4% increase by 2018. In contrast, a persistent null association was observed for pre-cooked meat, dairy, and fresh meat. Subgroup analyses for sandwiches indicated that the association with readability was strongest among less-engaged consumers. Conclusion: Empirical evidence challenges the utility of a standardised approach to food labelling, suggesting the effectiveness of label salience is contingent not just on the consumer, but on the product’s context and the content of its message.
-      <details>
+    </details>
 
 - Pol Rovira-Wilde, **Yan WANG**. Towards a Natural Language Processing Pipeline for Measuring Types of Issue-specific Polarisation using UK Party Manifestos. Working paper.
     <details>
